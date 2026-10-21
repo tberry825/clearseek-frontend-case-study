@@ -35,11 +35,16 @@ This case study documents selected **frontend development** contributions to Cle
 - Handling coordinate-sensitive selection and canvas interactions.
 - Paying attention to clarity and consistency across interface states.
 
-## View the Case Study
+## Watch the Demonstrations
 
-[**Explore the ClearSeek / DejaVuAI portfolio case study**](https://concreterosegraphics.com/projects/vertex-studio/dejavuai)
+**[View the ClearSeek / DejaVuAI case study and videos on my portfolio →](https://concreterosegraphics.com/projects/vertex-studio/dejavuai)**
 
-Any external demonstrations linked from the portfolio remain subject to employer authorization. This repository does not host or redistribute employer media or source code.
+The portfolio page features demonstrations of:
+
+- **Light and dark mode** — interface presentation across themes.
+- **Video frame extraction** — a frontend workflow for working with frames from video.
+
+The videos are hosted on the portfolio; this GitHub repository links to the case study rather than copying or redistributing employer media. Public sharing remains subject to employer authorization.
 
 ## About Me
 
